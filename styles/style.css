@@ -403,10 +403,10 @@ footer i {
   color: red;
 }
 
-#servicos {
-  margin: 80px;
+#eventos {
+  margin-bottom: 100px;
 }
-#servicos h3 {
+#eventos h3 {
   padding-top: 30px;
   font-size: 1.2rem;
   color: #090910;
@@ -415,38 +415,38 @@ footer i {
   text-align: center;
   margin: 1rem;
 }
-#servicos h4 {
+#eventos h4 {
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 80px;
   font-weight: 300;
 }
-#servicos .cards {
+#eventos .cards {
   display: flex;
   justify-content: space-evenly;
 }
-#servicos .cards .card {
+#eventos .cards .card {
   width: 360px;
   height: 500px;
   text-align: center;
 }
-#servicos .cards .card h5 {
+#eventos .cards .card h5 {
   font-size: 2rem;
   font-weight: 300;
   margin-top: 25px;
   margin-bottom: 20px;
   color: #090910;
 }
-#servicos .cards .card p {
+#eventos .cards .card p {
   font-size: 1rem;
   font-weight: 300;
   color: #090910;
   line-height: 1.25rem;
 }
-#servicos .cards .card .img-container {
+#eventos .cards .card .img-container {
   padding-bottom: 2px;
   border-bottom: 6px solid #911F27;
 }
-#servicos .cards .card .img-container img {
+#eventos .cards .card .img-container img {
   max-width: 100%;
 }/*# sourceMappingURL=style.css.map */
